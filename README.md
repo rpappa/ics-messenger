@@ -45,4 +45,11 @@ var server = connectToServer('wss://url.io', function() {
         console.log(pops);
     });
 });
+
+/////////////////////////////////
+// INSERT connectToServer HERE //
+/////////////////////////////////
+
+function connectToServer(url, onopen) {
+    ...
 ````

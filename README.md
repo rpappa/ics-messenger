@@ -2,7 +2,7 @@
 
 1) open a terminal window (window > new terminal)
 
-2) navigate to the directory this file is in
+2) navigate to the directory where server.js is in
 
 3) install nodejs-websocket with npm ("npm i nodejs-websocket")
 
